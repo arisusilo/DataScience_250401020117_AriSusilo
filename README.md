@@ -35,7 +35,7 @@ Anda dapat mengeksplorasi dan menjalankan kode dalam portofolio ini dengan dua m
 1. Pasang Git dan distribusi Python (disarankan menggunakan Anaconda).
 2. Klon repositori ini ke komputer Anda:
    ```bash
-   git clone https://github.com/arisusilo/data-science-2026.git
+   git clone https://github.com/arisusilo/DataScience_250401020117_AriSusilo.git
 
 ## Kesimpulan Perjalanan Belajar (Pertemuan 1–7)
 Data Science bukan sekadar tentang melatih algoritma Machine Learning yang canggih, melainkan sebuah cara berpikir sistematis yang berlandaskan pada pemahaman bisnis yang kuat.
