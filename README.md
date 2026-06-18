@@ -8,11 +8,17 @@ Repositori ini merupakan portofolio yang berisi implementasi langsung (hands-on)
 
 ## Daftar Pertemuan & Topik Praktikum
 **Pertemuan 1** Mengenal Dunia Data Science & Ekosistem Tools Modern (CRISP-DM, Google Colab, & GitHub) https://colab.research.google.com/github/arisusilo/data-science-2026/blob/main/Pertemuan1_Ari_Susilo_250401020117.ipynb
+
 **Pertemuan 2** Struktur Data Python (List, Tuple, Dict, Set), Dasar NumPy & Manipulasi Pandas. https://colab.research.google.com/github/arisusilo/data-science-2026/blob/main/Pertemuan2_Ari_Susilo_250401020117.ipynb
+
 **Pertemuan 3** Data Cleaning: Handling Missing Values, Deteksi Outlier (IQR/Z-Score), & Ekstraksi REST API. https://colab.research.google.com/github/arisusilo/data-science-2026/blob/main/Pertemuan3_Ari_Susilo_250401020117.ipynb
+
 **Pertemuan 4** Statistika Dasar & Analisis Data (Deskriptif, Univariat, Bivariat, Korelasi Pearson & Spearman). https://colab.research.google.com/github/arisusilo/data-science-2026/blob/main/Pertemuan4_Ari_Susilo_250401020117.ipynb
+
 **Pertemuan 5** Visualisasi Data & Storytelling (Framework *What? So What? Now What?* dengan Matplotlib & Seaborn). https://colab.research.google.com/github/arisusilo/data-science-2026/blob/main/Pertemuan5_Ari_Susilo_250401020117.ipynb
+
 **Pertemuan 6** Persiapan Data untuk ML (Categorical Encoding, Feature Scaling, & Stratified Train-Test Split). https://colab.research.google.com/github/arisusilo/data-science-2026/blob/main/Pertemuan6_Ari_Susilo_250401020117.ipynb
+
 **Pertemuan 7** Pengantar Machine Learning: Pemodelan & Evaluasi Regresi Linear End-to-End. https://colab.research.google.com/github/arisusilo/data-science-2026/blob/main/Pertemuan7_Ari_Susilo_250401020117.ipynb
 
 ## 🛠️(Tools & Libraries)
