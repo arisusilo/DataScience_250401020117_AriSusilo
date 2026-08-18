@@ -21,6 +21,16 @@ Repositori ini merupakan portofolio yang berisi implementasi langsung (hands-on)
 
 **Pertemuan 7** Pengantar Machine Learning: Pemodelan & Evaluasi Regresi Linear End-to-End. https://colab.research.google.com/github/arisusilo/data-science-2026/blob/main/Pertemuan7_Ari_Susilo_250401020117.ipynb
 
+**Pertemuan 9** Algoritma  Klasifikasi  (Bagian  1):  Logistic  Regression,  Decision  Trees,Confusion Matrix, Accuracy, Precision, Recall, F1-Score. https://colab.research.google.com/github/arisusilo/data-science-2026/blob/main/Pertemuan9_Ari_Susilo_250401020117.ipynb
+
+**Pertemuan 10** Algoritma Klasifikasi (Bagian 2): Metode Ensemble (Random Forest) dan penanganan Imbalanced Dataset. https://colab.research.google.com/github/arisusilo/DataScience_250401020117_AriSusilo/blob/main/Pertemuan10_Ari_Susilo_250401020117.ipynb
+
+**Pertemuan 11** Unsupervised Learning (Clustering): K-Means, Hierarchical Clustering, dan Metode Elbow untuk menentukan jumlah cluster optimal. https://colab.research.google.com/github/arisusilo/DataScience_250401020117_AriSusilo/blob/main/Pertemuan11_Ari_Susilo_250401020117.ipynb
+
+**Pertemuan 12** Asosiasi Data & Sistem Rekomendasi Dasar: Algoritma Apriori (Market Basket Analysis) dan konsep Collaborative/Content-Based Filtering. https://colab.research.google.com/github/arisusilo/DataScience_250401020117_AriSusilo/blob/main/Pertemuan12_Ari_Susilo_250401020117.ipynb
+
+**Pertemuan 13** Pengantar Deep Learning & NLP Dasar: konsep dasar Artificial Neural Network, serta pemrosesan teks sederhana dengan TF-IDF untuk analisis sentimen. https://colab.research.google.com/github/arisusilo/DataScience_250401020117_AriSusilo/blob/main/Pertemuan13_Ari_Susilo_250401020117.ipynb
+
 ## 🛠️(Tools & Libraries)
 Proyek di dalam repositori ini dibangun menggunakan ekosistem sains data modern berbasis **Python**:
 
@@ -42,3 +52,4 @@ Data Science bukan sekadar tentang melatih algoritma Machine Learning yang cangg
 - Pondasi Data (P1-P2): Memahami alur kerja terstruktur lewat metodologi CRISP-DM dan menguasai manipulasi struktur data tabel merupakan langkah mutlak sebelum melangkah lebih jauh.
 - Krusialnya Data Preprocessing (P3, P4, & P6): Fakta industri terbukti nyata, di mana sebagian besar waktu dihabiskan untuk menangani missing values, menyelaraskan format string, mengisolasi pencilan (outliers), melakukan encoding, serta melakukan scaling fitur. Tahapan persiapan data ini sangat krusial demi menghindari data leakage dan mencegah fenomena Garbage In, Garbage Out.
 - Storytelling & Prediksi (P5 & P7): Melalui visualisasi data yang tepat, grafik statistik mampu mengomunikasikan insight rumit menjadi narasi bisnis yang mudah dipahami. Pada akhirnya, pemodelan prediktif menggunakan Regresi Linear memberikan kemampuan untuk membaca tren historis dan mengubah data masa lalu menjadi keputusan prediktif masa depan yang terukur
+- Pertemuan 1–13 mencakup perjalanan dari pengolahan dan eksplorasi data, supervised learning, klasifikasi, ensemble learning, penanganan imbalanced dataset, unsupervised learning melalui clustering, association rule mining, sistem rekomendasi dasar, hingga pengantar Deep Learning dan NLP. Rangkaian praktikum menunjukkan bahwa pemilihan algoritma, preprocessing, evaluasi, serta interpretasi hasil harus disesuaikan dengan karakteristik dan tujuan permasalahan.
